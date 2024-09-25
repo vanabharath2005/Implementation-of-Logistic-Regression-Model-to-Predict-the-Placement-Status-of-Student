@@ -79,23 +79,33 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 1.PLACEMENT DATA
 ![image](https://github.com/user-attachments/assets/13fc0d7e-3dad-48ac-885c-382b66e40d32)
 2.SALARY DATA
+
 ![image](https://github.com/user-attachments/assets/314edf7c-6b7c-4229-96c2-d30b0756ddb8)
 3.
+
 ![image](https://github.com/user-attachments/assets/9497c399-8aa4-4167-817f-891075fef09c)
 4.
+
 ![image](https://github.com/user-attachments/assets/d3bf1118-6019-4df4-8cec-ca732a0edb5f)
 5.
+
 ![image](https://github.com/user-attachments/assets/96701ae6-13c0-4f43-8916-274ab92ef375)
 6.
+
 ![image](https://github.com/user-attachments/assets/4c2ab516-6092-4e85-8636-e2606c2f536c)
+
 ![image](https://github.com/user-attachments/assets/29365602-0630-4ab1-b544-85fdce0118ee)
 7.
+
 ![image](https://github.com/user-attachments/assets/82bf9c36-c7ca-43e7-9af4-d5f29ba44204)
 8.
+
 ![image](https://github.com/user-attachments/assets/18548119-ba16-4377-9547-36b01f3f3031)
 9.
+
 ![image](https://github.com/user-attachments/assets/c3fdfa86-a0c2-4642-ad1e-51241aa1219c)
 10.
+
 ![image](https://github.com/user-attachments/assets/9c2e095b-e4ed-4da3-a869-d9e4098f8e0f)
 
 
